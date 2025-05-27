@@ -28,7 +28,7 @@ This project implements a Go client that connects to the Arbitrum Sequencer Feed
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/arbitrum-feed-client.git
+git clone https://github.com/DevWaste/arbitrum-feed-client.git
 cd arbitrum-feed-client
 go mod tidy
 go run main.go
